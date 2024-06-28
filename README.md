@@ -1,15 +1,15 @@
 # Web Template
 
-Bem-vindo ao repositório do Template de Solução Web da Pyp System! Este template foi criado para impulsionar seus projetos web com Nuxt.js, Vue.js, TypeScript e TailwindCSS. Siga as instruções abaixo para começar.
+Repositório usado para template para as soluções web da Pyp System!
 
 ## Introdução
 
 Este repositório é um template para o desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
-- **Nuxt.js**
-- **Vue.js**
-- **TypeScript**
-- **TailwindCSS**
+- ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
 ## Estrutura do Projeto
 
@@ -24,5 +24,5 @@ Este repositório é um template para o desenvolvimento de aplicações web util
 ├── nuxt.config.ts      # Arquivo de configuração do Nuxt.js
 ├── tailwind.config.js  # Arquivo de configuração do TailwindCSS
 ├── tsconfig.json       # Arquivo de configuração do TypeScript
-└── package.json        # Metadados do projeto e dependências
+└── package.json        # Dependências
 ```
