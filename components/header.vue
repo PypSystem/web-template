@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const menuItems = [
-  { text: "Início", link: "/" },
-  { text: "Sobre", link: "/about" },
+  { text: 'Início', link: '/' },
+  { text: 'Sobre', link: '/about' },
 ];
 </script>
 
