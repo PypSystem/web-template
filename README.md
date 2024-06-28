@@ -1,4 +1,4 @@
-# Template Web - Pyp System
+# Web Template
 
 Bem-vindo ao repositório do Template de Solução Web da Pyp System! Este template foi criado para impulsionar seus projetos web com Nuxt.js, Vue.js, TypeScript e TailwindCSS. Siga as instruções abaixo para começar.
 
