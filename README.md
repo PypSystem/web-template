@@ -1,6 +1,6 @@
 # Web Template
 
-Repositório usado para template para as soluções web da Pyp System!
+Bem-vindo ao repositório de template para soluções web da Pyp System! Este template é projetado para simplificar a criação de novos projetos web, tanto para a equipe da Pyp System quanto para a comunidade. Aqui, você encontrará a arquitetura inicial que utilizamos em nossos projetos.
 
 ## Introdução
 
