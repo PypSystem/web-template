@@ -30,15 +30,13 @@ Este repositório é um template para o desenvolvimento de aplicações web util
 ## Como usar
 
 1. Clone o repositório:
-`git clone https://github.com/PypSystem/web-template.git`
+- `git clone https://github.com/PypSystem/web-template.git`
 
 2. Vá até o diretório onde o projeto foi clonado e instale as dependências:
-`
-cd web-template
-npm install
-`
+- `cd web-template`
+- `npm install`
 
 3. Inicie o servidor de desenvolvimento:
-`npm run dev`
+- `npm run dev`
 
 4. Acesse a aplicação no seu navegador.
